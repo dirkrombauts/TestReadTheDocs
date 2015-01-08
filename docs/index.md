@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-This is the newest (post v1.0) version!
+This is the 3.0 version!
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
